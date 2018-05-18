@@ -1,0 +1,6 @@
+stack on cart.php only buyer
+then buy.php both sides
+then the other is easy
+
+
+redesign the whole thing if possible if u get time
